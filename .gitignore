@@ -27,3 +27,7 @@ dist/
 # 에디터/OS
 .vscode/settings.json
 Thumbs.db
+
+# AI 도구 로컬 상태
+.omc/
+.claude/settings.local.json
