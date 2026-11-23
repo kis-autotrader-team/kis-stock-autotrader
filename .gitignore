@@ -1,0 +1,29 @@
+# 비밀값
+.env
+*.env
+!.env.example
+kis_devlp.yaml
+*.pem
+*.key
+
+# 파이썬
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# 실행 데이터
+*.db
+*.sqlite3
+logs/
+*.log
+
+# 빌드
+build/
+dist/
+*.spec
+
+# 에디터/OS
+.vscode/settings.json
+Thumbs.db
